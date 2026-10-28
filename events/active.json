@@ -1,0 +1,28 @@
+{
+  "slug": "kalus-catering-paliyodu",
+  "name": "Kalus Catering",
+  "shortName": "Kalus",
+  "descriptor": "Catering Services",
+  "address": "KALUS CATERING,90, ROAD, near MARAYAMUTTAM POLICE STATION, MARAYAMUTTAM, Paliyodu, Keralam 695124",
+  "area": "MARAYAMUTTAM",
+  "city": "Paliyodu",
+  "district": "Thiruvananthapuram",
+  "region": "Kerala",
+  "postalCode": "695124",
+  "geo": {
+    "lat": 8.4195122,
+    "lng": 77.11002529999999
+  },
+  "mapsLink": "https://maps.google.com/?cid=1350842007051972693",
+  "phone": "+91 99954 65847",
+  "whatsapp": "919995465847",
+  "rating": 5,
+  "reviewCount": 1,
+  "reviews": [],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://kalus-catering-paliyodu.vercel.app"
+}
